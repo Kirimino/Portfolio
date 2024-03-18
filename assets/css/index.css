@@ -1,0 +1,55 @@
+header {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    background-color: black;
+    text-align: center;
+    color: white;
+    word-spacing: 3cm;
+    line-height: 3;
+}
+
+footer {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    word-spacing: 1cm;
+    line-height: 1;
+}
+
+body {
+    background-color: snow;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    display:flex;
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.About {
+    color: red;
+}
+
+.Projects {
+    color: red;
+}
+
+.Contacts {
+    color: red;
+}
+
+.Projects-ul {
+    color:red;
+}
+
